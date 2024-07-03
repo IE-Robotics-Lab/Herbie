@@ -1,6 +1,6 @@
 # Herbie: The Autonomous Plant
 
-Herbie is an autonomous plant system designed to sustain itself for long periods, potentially even for its entire life. Herbie is equipped with several sensors and is mounted on a platform capable of omnidirectional movement. This README file provides an overview of the components and instructions for setting up and running Herbie.
+Herbie is an autonomous plant system designed to sustain itself for long periods, potentially even for its entire life. Herbie is equipped with several sensors and is mounted on a platform capable of omnidirectional movement.
 
 ## Components
 

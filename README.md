@@ -38,7 +38,3 @@ This Python script is designed to fetch data from the Xiaomi MiFlora sensor usin
 2. **Read Sensor Data**: Implement a function to read data from the light sensor.
 3. **Control Movement**: Based on the sensor data, send commands to the Arduino to control Herbie's movement.
 4. **Handle Reconnection**: Ensure the script can handle disconnections and attempt to reconnect.
-
-## Setup Instructions
-
-### Hardware Setup
